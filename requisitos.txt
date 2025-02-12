@@ -1,0 +1,4 @@
+Requisitos do Sistema:
+- O sistema deve permitir login seguro.
+- Deve haver controle de versão para os artefatos.
+- Os usuários podem colaborar de forma segura no repositório.
