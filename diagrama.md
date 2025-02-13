@@ -10,5 +10,3 @@ graph TD;
     H[Equipe de Desenvolvimento] -->|Versiona Código| B;
     I[Equipe de Qualidade] -->|Revisa e Valida Artefatos| C;
     J[Gestores] -->|Aprovam Estratégia de Gestão| A;
-
-    K[JOJUI] -->|AMA O TEU| A;
