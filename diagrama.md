@@ -11,4 +11,4 @@ graph TD;
     I[Equipe de Qualidade] -->|Revisa e Valida Artefatos| C;
     J[Gestores] -->|Aprovam Estratégia de Gestão| A;
 
-    K [JOJUI] -->|AMA O TEU| A;
+    K[JOJUI] -->|AMA O TEU| A;
